@@ -4,7 +4,7 @@
 Estudante de Engenharia de Software na UniCEUB.
 
 ## 📁 Projetos Acadêmicos
-- [Projetos Academicos](./projetos-academicos/src) - Aqui tem os meus projetos feitos na faculdade
+- [Projetos Academicos](./projetos-academicos1/src) - Aqui tem os meus projetos feitos na faculdade
   
 ## 🚀 Projetos Pessoais
 - [Projetos Autonomos](./projetos-pessoais/src) - Aqui se encontra os meus projetos pessoais (feitos fora da faculdade)
