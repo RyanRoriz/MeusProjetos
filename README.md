@@ -1,20 +1,20 @@
-# 👨‍💻 Meu Portfólio de Projetos
+# Meu Portfólio de Projetos
 
 ## Sobre mim
 Estudante de Engenharia de Software na UniCEUB.
 
-## 📁 Projetos Acadêmicos
+##  Projetos Acadêmicos
 - [Projetos Academicos](./projetos-academicos1/src) - Aqui tem os meus projetos feitos na faculdade
   
-## 🚀 Projetos Pessoais
+## Projetos Pessoais
 - [Projetos Autonomos](./projetos-pessoais/src) - Aqui se encontra os meus projetos pessoais (feitos fora da faculdade)
 
-## 📫 Contato
+## Contato
 - LinkedIn: www.linkedin.com/in/ryan-meireles-dev
 - Email: rorizryan@gmail.com
 - Telefone: (11) 9 4549-4127
 
-## 📝 PortfolioHUB de implementação Gemini IA 3.5 Flash
+## PortfolioHUB de implementação Gemini IA 3.5 Flash
 
 ## Descrição
 O PortfolioHUB é uma plataforma destinada ao gerenciamento e exibição de portfólios digitais e projetos acadêmicos. Seu objetivo é centralizar informações sobre projetos, facilitando o compartilhamento, organização e acompanhamento do desenvolvimento.
